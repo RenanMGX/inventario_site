@@ -1,0 +1,216 @@
+#body{
+	
+}
+.top{
+	height: 70px ;
+	width: 1000px;
+}
+a{
+	text-decoration:none;
+	color: black;
+}
+#menu {
+	background: #607D8B ;
+	float: center ;
+	text-align: left ;
+	font-size:30px;
+	height: 50px;
+	width: 1000px;
+	padding: 10 0 0 15px;
+	margin: 30 0 0 0;
+}
+#pesqui{
+	float: right;
+	text-align:right;
+	width: 250px;
+	height: 48px;
+	margin: 0 -15 0 0;
+	padding: 10 10 0 0;
+}
+.add{
+	background: #8bc34a;
+	text-align:center;
+	height: 30px;
+	width: 500px;
+	padding: 1px 0 0 0;
+	margin: 0 0 5 250px;
+	font-size: 25px;
+}
+.add2{
+	background: #8bc34a;
+	text-align:center;
+	height: 30px;
+	width: 500px;
+	padding: 1px 30px 0 30px;
+	margin: 0 0 5 20px;
+	font-size: 25px;
+	border: 1px solid #4caf50;
+}
+.add:hover {
+	background: #4caf50;
+}
+.add2:hover {
+	background: #4caf50;
+}
+#topic{
+	background: grey;
+	text-align:center;
+	height: 50px;
+	width: 1015px;
+}
+#topic4{
+	background: grey;
+	text-align:center;
+	height: 50px;
+	width: 1021px;
+}
+#topic2{
+	background: white;
+	text-align:center;
+	height: 50px;
+		width: 1015px;
+
+}
+#topic2:hover {
+	background:red;
+}
+#topic3{
+	background: white;
+	text-align:center;
+	height: 32px;
+}
+#topic5{
+	background: white;
+	text-align:center;
+	height: 50px;
+		width: 1015px;
+
+}
+.placa{
+	border: 1px solid black;
+	width: 175px;
+	float:left;
+	padding: 15 10 15 10;
+	margin: 0 0 0 25px;
+}
+.valor{
+	border: 1px solid black;
+	width: 140px;
+	float:left;
+	padding: 15 10 15 10;
+	margin: 0 0 0 25px;
+}
+.nome{
+	border: 1px solid black;
+	width: 255px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.ser{
+	border: 1px solid black;
+	width: 654px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.km{
+	border: 1px solid black;
+	width: 205px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.servico{
+		border: 1px solid black;
+	width: 629px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.total{
+	border: 1px solid black;
+	width: 190px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.data-i{
+	border: 1px solid black;
+	width: 205px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.data-i2{
+	border: 1px solid black;
+	width: 130px;
+	float:left;
+		padding: 15 10 15 10;
+}
+.data-a{
+	border: 1px solid black;
+	width: 180px;
+	float:left;
+		padding: 15 10 15 10;
+}
+
+.centro {
+	margin: 10 1 0 0;
+}
+.p{
+	float:right;
+	color:blue;
+}
+#add_form {
+	background: rgba(63, 81, 181, 0.34);
+	height: 400px;
+	width: 1015px;
+}
+.add_form{
+	text-align: center;
+	width: 400px;
+	margin: 0 0 0 100px;
+	padding: 30 0 0 0;
+}
+.text_form {
+	height: 40px;
+	width: 350px;
+	padding: 0px 0px 0px 10px;
+	margin: 0px 0px 0px 200px;
+	display: block;
+	background: white;
+	border-style: solid;
+	border-color: black;
+	font-size: 158%;
+}
+
+.text {
+	font-size:150%;
+}
+.text2 {
+	float: right;
+	margin: 0 10px 0 0;
+}
+.form_titulo{
+	font-size: 200%;
+	margin: 0 0 0 235px;
+}
+.form_enviar {
+	width: 200px;
+	height: 30px;
+	margin: 0 0 0 200px;
+}
+#descri {
+	background: #9E9E9E;
+	height: 300px;
+	width: 1015px;
+	border: 3px solid grey;
+}
+.descri1 {
+	background: rgba(0, 0, 255, 0.23);
+	height: 300px;
+	width: 550px;
+	margin: 0 0 -300px 0;
+}
+
+.descri2 {
+	background: rgba(76, 175, 80, 0.23);
+	height: 300px;
+	width: 465px;
+	margin: 0 0 0 550px;
+}
